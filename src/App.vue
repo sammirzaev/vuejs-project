@@ -3,7 +3,12 @@
 </template>
 
 <script>
-export default {};
+export default {
+  el: "#app",
+  data: {
+    title: "Hello World!"
+  }
+};
 </script>
 
 <style>
