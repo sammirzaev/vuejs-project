@@ -1,6 +1,6 @@
-# sam-app
+# communication
 
-> this is learning purpose
+> Test Practice Project
 
 ## Build Setup
 
