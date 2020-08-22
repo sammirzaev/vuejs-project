@@ -1,9 +1,7 @@
-import Vue from "vue";
-import App from "./App.vue";
-import Home from "./Home";
+import Vue from 'vue'
+import App from './App.vue'
 
-Vue.component("app-servers", Home);
 new Vue({
-  el: "#app",
+  el: '#app',
   render: h => h(App)
-});
+})
